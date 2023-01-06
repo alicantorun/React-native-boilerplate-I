@@ -1,7 +1,3 @@
-Hi!
-Welcome to my TomTom assesment.
-My name is Dennis Goncearuc, and I want to introduce you to my project.
-
 This project was build with [Expo](https://docs.expo.dev/) + [Expo EAS](https://expo.dev/eas)  for native modules.
 Because it's Expo, you need some packages to run this project 
 
